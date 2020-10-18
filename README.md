@@ -1,6 +1,8 @@
-## A website
+# RLC (Team 13)
+## Project website
 ### Requirements
 * [hugo](https://gohugo.io/)
+* [git](https://git-scm.com/)
 * linux or [wsl](https://docs.microsoft.com/en-us/windows/wsl/install-win10) (optional, recommended)
 ### Instructions
 * clone the repository
