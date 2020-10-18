@@ -1,0 +1,51 @@
+baseurl = "/"
+title = "ENG1 Site"
+copyright = "Copyright (c) 2020, all rights reserved."
+languageCode = "en-US"
+paginate = 3
+theme = "hugo-dusk"
+
+[author]
+  name = "RLC"
+
+SectionPagesMenu = "main"
+
+# Configure syntax highlight
+[markup]
+  [markup.highlight]
+    style = "rrt" # dark themes: monokai, api, fruity, native, rrt, swapoff
+
+
+[[menu.main]]
+  name = "Downloads"
+  weight = -100
+  identifier = "downloads"
+  url = "/downloads/"
+
+[[menu.main]]
+  name = "Docs"
+  weight = -110
+  identifier = "docs"
+  url = "/docs/"
+
+[[menu.main]]
+  name = "Posts"
+  weight = -120
+  identifier = "post"
+  url = "/post/"
+
+
+[params.meta]
+  keywords = "tech"
+  description = "Project Website"
+
+[params]
+  github = "orgs/Team-13-RLC/"
+  gitlab = ""
+  twitter = ""
+  linkedin = ""
+  email = "dk949@york.ac.uk"
+  theme_colors = "default-dark" # uses color css file under static/css/default-dark.css
+
+[markup.goldmark.renderer]
+  unsafe= true
