@@ -1,5 +1,5 @@
 baseurl = "/"
-title = "ENG1 Site"
+title = "RLC (Team 13)"
 copyright = "Copyright (c) 2020, all rights reserved."
 languageCode = "en-US"
 paginate = 3
@@ -36,7 +36,7 @@ SectionPagesMenu = "main"
 
 
 [params.meta]
-  keywords = "tech"
+  keywords = "tech, education"
   description = "Project Website"
 
 [params]
@@ -47,5 +47,6 @@ SectionPagesMenu = "main"
   email = "dk949@york.ac.uk"
   theme_colors = "default-dark" # uses color css file under static/css/default-dark.css
 
-[markup.goldmark.renderer]
-  unsafe= true
+## Uncomment to be able to use raw HTML in md documents
+#[markup.goldmark.renderer]
+#  unsafe= true
