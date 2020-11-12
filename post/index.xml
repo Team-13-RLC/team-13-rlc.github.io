@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on RLC (Team 13)</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on RLC (Team 13)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>Copyright (c) 2020, all rights reserved.</copyright>
+    <lastBuildDate>Thu, 12 Nov 2020 09:12:33 +0000</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Updating documentation</title>
+      <link>/post/updating_documentation/</link>
+      <pubDate>Thu, 12 Nov 2020 09:12:33 +0000</pubDate>
+      
+      <guid>/post/updating_documentation/</guid>
+      <description>Documentation has been updated  UML class diagrams and ECS diagrams are now available The latest vision is can be seen on the site, older versions can be downloaded.  </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,3 +1,3 @@
 #!/bin/sh
 # The cleanup script. Looks through the above directory, removes ay file or directpry that is not .git* site-source or README.md (also ignores the . and .. directory to avoid the error message from rm
-find .. -maxdepth 1 -not \( -name '.git*' -or -name '_site-source' -or -name 'README.md' -or -name "." -or -name ".." \) -exec rm -r "{}" \;
+find .. -maxdepth 1 -not \( -name '.git*' -or -name '_site-source' -or -name 'README.md' -or -name 'LICENSE' -or -name "." -or -name ".." \) -exec rm -r "{}" \;
