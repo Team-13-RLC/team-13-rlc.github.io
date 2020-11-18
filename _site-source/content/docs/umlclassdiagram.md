@@ -1,6 +1,6 @@
 ---
 title: "UML class diagram"
-date: 2020-11-12T08:36:01Z
+date: 2020-11-18
 draft: false
 ---
 
@@ -11,5 +11,6 @@ draft: false
 
 
 ### Previous versions
+* [12th November 2020](/img/umlClassDiagrams/2020_11_12.png)
 * [26th October 2020](/img/umlClassDiagrams/2020_10_26.png)
 * [23rd October 2020](/img/umlClassDiagrams/2020_10_23.png)

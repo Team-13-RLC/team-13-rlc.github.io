@@ -7,34 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>Copyright (c) 2020, all rights reserved.</copyright>
-    <lastBuildDate>Thu, 12 Nov 2020 09:29:53 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 18 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Entity component system diagram</title>
-      <link>/docs/ecs/</link>
-      <pubDate>Thu, 12 Nov 2020 09:29:53 +0000</pubDate>
+      <title>UML class diagram</title>
+      <link>/docs/umlclassdiagram/</link>
+      <pubDate>Wed, 18 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>/docs/ecs/</guid>
-      <description>All ECS diagrams produced or the Dragon Boat Race Game Latest version 
-Previous versions  9th November 2020 1st November 2020  </description>
+      <guid>/docs/umlclassdiagram/</guid>
+      <description>All UML class diagrams produced or the Dragon Boat Race Game Latest version 
+Previous versions  12th November 2020 26th October 2020 23rd October 2020  </description>
     </item>
     
     <item>
-      <title>Updating documentation</title>
-      <link>/post/updating_documentation/</link>
-      <pubDate>Thu, 12 Nov 2020 09:12:33 +0000</pubDate>
+      <title>Updating Documentation</title>
+      <link>/post/updating-documentation/</link>
+      <pubDate>Wed, 18 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/updating_documentation/</guid>
+      <guid>/post/updating-documentation/</guid>
       <description>Documentation has been updated  UML class diagrams and ECS diagrams are now available The latest vision is can be seen on the site, older versions can be downloaded.  </description>
     </item>
     
     <item>
-      <title>UML class diagram</title>
-      <link>/docs/umlclassdiagram/</link>
-      <pubDate>Thu, 12 Nov 2020 08:36:01 +0000</pubDate>
+      <title>Entity component system diagram</title>
+      <link>/docs/ecs/</link>
+      <pubDate>Thu, 12 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>/docs/umlclassdiagram/</guid>
-      <description>All UML class diagrams produced or the Dragon Boat Race Game Latest version 
-Previous versions  26th October 2020 23rd October 2020  </description>
+      <guid>/docs/ecs/</guid>
+      <description>All ECS diagrams produced or the Dragon Boat Race Game Latest version 
+Previous versions  9th November 2020 1st November 2020  </description>
     </item>
     
   </channel>

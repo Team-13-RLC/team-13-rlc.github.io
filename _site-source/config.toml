@@ -15,6 +15,11 @@ SectionPagesMenu = "main"
   [markup.highlight]
     style = "rrt" # dark themes: monokai, api, fruity, native, rrt, swapoff
 
+[[menu.main]]
+  name = "Posts"
+  weight = -120
+  identifier = "post"
+  url = "/post/"
 
 [[menu.main]]
   name = "Downloads"
@@ -28,11 +33,6 @@ SectionPagesMenu = "main"
   identifier = "docs"
   url = "/docs/"
 
-[[menu.main]]
-  name = "Posts"
-  weight = -120
-  identifier = "post"
-  url = "/post/"
 
 
 [params.meta]
