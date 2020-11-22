@@ -9,16 +9,6 @@
     <copyright>Copyright (c) 2020, all rights reserved.</copyright>
     <lastBuildDate>Wed, 18 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>UML class diagram</title>
-      <link>/docs/umlclassdiagram/</link>
-      <pubDate>Wed, 18 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/docs/umlclassdiagram/</guid>
-      <description>All UML class diagrams produced or the Dragon Boat Race Game Latest version 
-Previous versions  12th November 2020 26th October 2020 23rd October 2020  </description>
-    </item>
-    
-    <item>
       <title>Entity component system diagram</title>
       <link>/docs/ecs/</link>
       <pubDate>Thu, 12 Nov 2020 00:00:00 +0000</pubDate>
@@ -26,6 +16,16 @@ Previous versions  12th November 2020 26th October 2020 23rd October 2020  </des
       <guid>/docs/ecs/</guid>
       <description>All ECS diagrams produced or the Dragon Boat Race Game Latest version 
 Previous versions  9th November 2020 1st November 2020  </description>
+    </item>
+    
+    <item>
+      <title>UML class diagram</title>
+      <link>/docs/umlclassdiagram/</link>
+      <pubDate>Wed, 18 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/umlclassdiagram/</guid>
+      <description>All UML class diagrams produced or the Dragon Boat Race Game Latest version 
+Previous versions  12th November 2020 26th October 2020 23rd October 2020  </description>
     </item>
     
   </channel>

@@ -1,6 +1,7 @@
 ---
 title: "Entity component system diagram"
 date: 2020-11-12
+weight: 100
 draft: false
 ---
 ## All ECS diagrams produced or the Dragon Boat Race Game

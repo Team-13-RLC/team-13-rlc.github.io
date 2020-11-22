@@ -29,7 +29,7 @@ SectionPagesMenu = "main"
 
 [[menu.main]]
   name = "Docs"
-  weight = -110
+  weight = 110
   identifier = "docs"
   url = "/docs/"
 

@@ -1,6 +1,7 @@
 ---
 title: "Updating Documentation"
 date: 2020-11-18
+type: new
 draft: false
 ---
 

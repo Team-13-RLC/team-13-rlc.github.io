@@ -7,7 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>Copyright (c) 2020, all rights reserved.</copyright>
-    <lastBuildDate>Wed, 18 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 21 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Week starting 2020-11-16</title>
+      <link>/post/week-starting-2020-11-16/</link>
+      <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/week-starting-2020-11-16/</guid>
+      <description>Meetings happened 2020-11-17, 2020-11-19
+Discussed in the meeting(s):  Reviewing code:   Canvas - Done (for now) and merged
+ Canvas uses the LibGDX OrthographicCamera    Lanes - Done and merged
+ Lane class written in a way to make it easier later to detect collisions with lanes.    AIBoat still being worked on.
+  Boat sprites can be rendered
+  The background scrolls (to make it look like flowing water)</description>
+    </item>
+    
     <item>
       <title>Updating Documentation</title>
       <link>/post/updating-documentation/</link>
@@ -15,6 +29,60 @@
       
       <guid>/post/updating-documentation/</guid>
       <description>Documentation has been updated  UML class diagrams and ECS diagrams are now available The latest vision is can be seen on the site, older versions can be downloaded.  </description>
+    </item>
+    
+    <item>
+      <title>Week starting 2020-11-09</title>
+      <link>/post/week-starting-2020-11-09/</link>
+      <pubDate>Mon, 16 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/week-starting-2020-11-09/</guid>
+      <description>Meetings happened 2020-11-09, 2020-11-12
+Discussed in the meeting(s):  Reviewing code:  User input in UserBoat class - Done and merged Stats and Position classes - Done and merged    The plan:  Programming:  Create the Canvas class to manage the main game:  Create all needed objects for a race Manage and draw all the sprites   Create a Lane class to render the lanes. Create AIBoat class, to control other boats   Other:  Research how LibGDX OrthographicCamera works Keep writing JavaDoc documentation.</description>
+    </item>
+    
+    <item>
+      <title>Week starting 2020-11-02</title>
+      <link>/post/week-starting-2020-11-02/</link>
+      <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/week-starting-2020-11-02/</guid>
+      <description>Meetings happened 2020-11-02, 2020-11-05
+Discussed in the meeting(s):  Decided which library to use  LibGDX   Finished the first draft of the architecture (enough to start programming)  The plan:  Create a boat class and a user boat class.  Implement an input system for the UserBoat class   Create some data structures:  Stats - to hold various statistics about each boat Position - To hold position for various objects.</description>
+    </item>
+    
+    <item>
+      <title>Week starting 2020-10-26</title>
+      <link>/post/week-starting-2020-10-26/</link>
+      <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/week-starting-2020-10-26/</guid>
+      <description>Meetings happened 2020-10-26, 2020-10-29
+Discussed in the meeting(s):  Discussing what library or engine to use to make the game Discussing sprites (style and perspective)  Some sprite prototypes have been created.   &amp;ldquo;Should the player move on the screen, or should everything around the player move?&amp;rdquo;  The plan:  Research different game making libraries/engines Reaching how how difficult it would be to implement some sort of a camera  Long term plan: </description>
+    </item>
+    
+    <item>
+      <title>Week starting 2020-10-19</title>
+      <link>/post/week-starting-2020-10-19/</link>
+      <pubDate>Mon, 26 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/week-starting-2020-10-19/</guid>
+      <description>Meetings happened 2020-10-19, 2020-10-21, 2020-10-22
+Discussed in the meeting(s):   Arranging the customer meeting
+  Reviewing work done since the last meeting
+ Creating the first risk assessment draft Creating the website    Checking, and adding to, the list of questions for the team customer meeting.
+  Attending a customer meeting
+  Converting the notes from the customer meeting into a list of user requirements.</description>
+    </item>
+    
+    <item>
+      <title>Week starting 2020-10-12</title>
+      <link>/post/week-starting-2020-10-12/</link>
+      <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/week-starting-2020-10-12/</guid>
+      <description>Meeting happened 2020-10-15
+Discussed in the meeting(s):  Reading through the requirements Deciding what software to use for the website. Creating a rough plan for the project Organizing a second meeting (outside of ENG1 practicals)  The plan:  Create a GitHub pages website Create a GitHub organization for the project to be hosted on Come up with questions for team customer meeting  Book a team customer meeting.    Long term plan:  Create a design (architecture) for the game Implement the game Documentation  Documenting the code Documenting the process of completing the project   Unit testing Create assets for the game Complete the write up or the project  </description>
     </item>
     
   </channel>
