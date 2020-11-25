@@ -8,12 +8,22 @@
   </url>
   
   <url>
-    <loc>/post/</loc>
-    <lastmod>2020-11-21T00:00:00+00:00</lastmod>
+    <loc>/downloads/download-page/</loc>
+    <lastmod>2020-11-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/downloads/</loc>
+    <lastmod>2020-11-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
+    <lastmod>2020-11-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
     <lastmod>2020-11-21T00:00:00+00:00</lastmod>
   </url>
   

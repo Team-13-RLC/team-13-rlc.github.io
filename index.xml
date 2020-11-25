@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>Copyright (c) 2020, all rights reserved.</copyright>
-    <lastBuildDate>Sat, 21 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 25 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Entity component system diagram</title>
       <link>/docs/ecs/</link>
@@ -16,6 +16,15 @@
       <guid>/docs/ecs/</guid>
       <description>All ECS diagrams produced or the Dragon Boat Race Game Latest version 
 Previous versions  9th November 2020 1st November 2020  </description>
+    </item>
+    
+    <item>
+      <title>Download Page</title>
+      <link>/downloads/download-page/</link>
+      <pubDate>Wed, 25 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/downloads/download-page/</guid>
+      <description>Download binary and source code for the game  Binary Source(zip) Source(tar.gz) GitHub release  </description>
     </item>
     
     <item>
