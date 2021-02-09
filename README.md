@@ -22,19 +22,32 @@ We are Team 13. We are continuing the project started by [Team 15](https://spani
 
 ## Sprint Updates - Team 13
 **19/01 - 25/01**
+
 ![week 1](https://team-13-rlc.github.io/img/week1.png)
 
+General plan for the project discussed. Figured out new requirements (not many were needed). Implemented powerups. Implementation was slightly delayed as some extra refactoring was needed to get powerups to work. Hence we did not start the work on difficulty or CI.
+
+
 **26/01 - 01/02**
+
 ![week 2](https://team-13-rlc.github.io/img/week2.png)
 
+Finalized the strategy for change management. Added difficulty (with a special screen to select difficulty). Started researching CI and even some testing. Started implementing saving by first implementing a pause screen. Finished implementing saves. Wrote some "test" tests. CI research still ongoing, but getting quite close to implementing it.
+
+
 **23/01 - 09/02**
+
 ![week 3](https://team-13-rlc.github.io/img/week3.png)
 
+Put CI in place. Writing tests and reports, prioritizing new feature tests and those that can be linked to a requirement. . Produced a concrete architecture from now finished implementation.
+
 **09/02 - 10/02**
+
 ![week 4](https://team-13-rlc.github.io/img/week4.png)
 
+Final Checks, making sure everything is up to date and getting ready to submit.
 
-
+-----------------
 ## Sprint Updates - Team 15
 **15/10 - 22/10**
 
