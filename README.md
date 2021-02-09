@@ -6,7 +6,7 @@ We are Team 13. We are continuing the project started by [Team 15](https://spani
 
 ### Updated Documentation
 * [Requirements Specification](https://team-13-rlc.github.io/pdfs/Req2.pdf)
-* [Architecture](https://Spanishforsalt.github.io/pdfs/Arch1.pdf)
+* [Architecture]( https://team-13-rlc.github.io/pdfs/ARCHITECTURE.pdf)
 * [Method Selection and Planning](https://Spanishforsalt.github.io/pdfs/Plan1.pdf)
 * [Risk Assessment](https://team-13-rlc.github.io/pdfs/Risk2.pdf)
 * [Implementation Discussion](https://Spanishforsalt.github.io/pdfs/Impl1.pdf)
