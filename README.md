@@ -18,25 +18,17 @@ We are Team 13. We are continuing the project started by [Team 15](https://spani
 
 
 ## Sprint Updates - Team 13
-**03/12 - 09/12**
+**19/01 - 25/01**
+![week 1](https://team-13-rlc.github.io/img/week1.png)
 
-**10/12 - 16/12**
+**26/01 - 01/02**
+![week 2](https://team-13-rlc.github.io/img/week2.png)
 
-**17/12 - 23/12**
+**23/01 - 09/02**
+![week 3](https://team-13-rlc.github.io/img/week3.png)
 
-**24/12 - 30/12**
-
-**31/12 - 06/01**
-
-**07/01 - 13/01**
-
-**14/01 - 20/01**
-
-**21/01 - 27/01**
-
-**28/01 - 03/02**
-
-**04/02 - 10/02**
+**09/02 - 10/02**
+![week 4](https://team-13-rlc.github.io/img/week4.png)
 
 
 
