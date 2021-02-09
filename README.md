@@ -5,12 +5,12 @@ We are Team 13. We are continuing the project started by [Team 15](https://spani
 ## Resources
 
 ### Updated Documentation
-[Requirements Specification](https://Spanishforsalt.github.io/pdfs/Req1.pdf)
-[Architecture](https://Spanishforsalt.github.io/pdfs/Arch1.pdf)
-[Method Selection and Planning](https://Spanishforsalt.github.io/pdfs/Plan1.pdf)
-[Risk Assessment](https://Spanishforsalt.github.io/pdfs/Risk1.pdf)
-[Implementation Discussion](https://Spanishforsalt.github.io/pdfs/Impl1.pdf)
-[Code Documentation](https://spanishforsalt.github.io/docs/)
+* [Requirements Specification](https://Spanishforsalt.github.io/pdfs/Req1.pdf)
+* [Architecture](https://Spanishforsalt.github.io/pdfs/Arch1.pdf)
+* [Method Selection and Planning](https://Spanishforsalt.github.io/pdfs/Plan1.pdf)
+* [Risk Assessment](https://Spanishforsalt.github.io/pdfs/Risk1.pdf)
+* [Implementation Discussion](https://Spanishforsalt.github.io/pdfs/Impl1.pdf)
+* [Code Documentation](https://spanishforsalt.github.io/docs/)
 
 ### Game Files
 [Jar File]()
@@ -84,9 +84,9 @@ We have completed our representation of the Concrete Architecture as the Impleme
 All the deliverables have been completed and submitted.
 
 ### Documentation - Team 15
-[Requirements Specification](https://Spanishforsalt.github.io/pdfs/Req1.pdf)
-[Architecture](https://Spanishforsalt.github.io/pdfs/Arch1.pdf)
-[Method Selection and Planning](https://Spanishforsalt.github.io/pdfs/Plan1.pdf)
-[Risk Assessment](https://Spanishforsalt.github.io/pdfs/Risk1.pdf)
-[Implementation Discussion](https://Spanishforsalt.github.io/pdfs/Impl1.pdf)
-[Code Documentation](https://spanishforsalt.github.io/docs/)
+* [Requirements Specification](https://Spanishforsalt.github.io/pdfs/Req1.pdf)
+* [Architecture](https://Spanishforsalt.github.io/pdfs/Arch1.pdf)
+* [Method Selection and Planning](https://Spanishforsalt.github.io/pdfs/Plan1.pdf)
+* [Risk Assessment](https://Spanishforsalt.github.io/pdfs/Risk1.pdf)
+* [Implementation Discussion](https://Spanishforsalt.github.io/pdfs/Impl1.pdf)
+* [Code Documentation](https://spanishforsalt.github.io/docs/)
