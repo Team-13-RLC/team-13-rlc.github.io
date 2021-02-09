@@ -10,7 +10,10 @@ We are Team 13. We are continuing the project started by [Team 15](https://spani
 * [Method Selection and Planning](https://Spanishforsalt.github.io/pdfs/Plan1.pdf)
 * [Risk Assessment](https://team-13-rlc.github.io/pdfs/Risk2.pdf)
 * [Implementation Discussion](https://Spanishforsalt.github.io/pdfs/Impl1.pdf)
-* [Code Documentation](https://spanishforsalt.github.io/docs/)
+* Testing:
+    * [Testing documentation](https://team-13-rlc.github.io/pdfs/TestDoc2.pdf)
+    * [Traceability Matrix](https://team-13-rlc.github.io/pdfs/TraceMat2.pdf)
+* [Code Documentation](https://team-13-rlc.github.io/docs)
 
 ### Game Files
 * [Jar File]()
