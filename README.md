@@ -48,7 +48,7 @@ We are Team 13. We are continuing the project started by [Team 15](https://spani
 This week we were slightly delayed getting the requirements written-up however we do not expect to go past the 28/10 complete date for these tasks.
 
 
-**[23 10](23/10) - 29/10**
+**23/10 - 29/10**
 
 <img src="https://user-images.githubusercontent.com/72558704/99911366-c5a82580-2ceb-11eb-8154-eb9737c171ef.png">
 
