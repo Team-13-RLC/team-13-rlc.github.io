@@ -13,8 +13,8 @@ We are Team 13. We are continuing the project started by [Team 15](https://spani
 * [Code Documentation](https://spanishforsalt.github.io/docs/)
 
 ### Game Files
-[Jar File]()
-[Release](https://github.com/Team-13-RLC/ENG1Project/releases)
+* [Jar File]()
+* [Release](https://github.com/Team-13-RLC/ENG1Project/releases)
 
 
 ## Sprint Updates - Team 13
