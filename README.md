@@ -13,7 +13,7 @@ We are Team 13. We are continuing the project started by [Team 15](https://spani
 * [Testing](https://team-13-rlc.github.io/pdfs/Test2.pdf):
     * [Testing documentation](https://team-13-rlc.github.io/pdfs/TestDoc2.pdf)
     * [Traceability Matrix](https://team-13-rlc.github.io/pdfs/TraceMat2.pdf)
-    * [Traceability Matrix](https://team-13-rlc.github.io/pdfs/TestEvidence2.pdf)
+    * [Test Evidence](https://team-13-rlc.github.io/pdfs/TestEvidence2.pdf)
 * [Continuous integration](https://team-13-rlc.github.io/pdfs/CI.pdf)
 * [Code Documentation](https://team-13-rlc.github.io/docs)
 
