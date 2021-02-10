@@ -18,7 +18,7 @@ We are Team 13. We are continuing the project started by [Team 15](https://spani
 * [Code Documentation](https://team-13-rlc.github.io/docs)
 
 ### Game Files
-* [Jar File]()
+* [Jar File](https://team-13-rlc.github.io/jars/Dragonboat_Race_v1.3.jar)
 * [Release](https://github.com/Team-13-RLC/ENG1Project/releases)
 
 
