@@ -7,14 +7,14 @@ We are Team 13. We are continuing the project started by [Team 15](https://spani
 ### Updated Documentation
 * [Requirements Specification](https://team-13-rlc.github.io/pdfs/Req2.pdf)
 * [Architecture]( https://team-13-rlc.github.io/pdfs/Arch2.pdf)
-* [Method Selection and Planning](https://team-13-rlc.github.io/pdfs/Plan1.pdf)
+* [Method Selection and Planning](https://team-13-rlc.github.io/pdfs/Plan2.pdf)
 * [Risk Assessment](https://team-13-rlc.github.io/pdfs/Risk2.pdf)
 * [Implementation](https://team-13-rlc.github.io/pdfs/Impl2.pdf)
 * [Testing](https://team-13-rlc.github.io/pdfs/Test2.pdf):
     * [Testing documentation](https://team-13-rlc.github.io/pdfs/TestDoc2.pdf)
     * [Traceability Matrix](https://team-13-rlc.github.io/pdfs/TraceMat2.pdf)
     * [Test Evidence](https://team-13-rlc.github.io/pdfs/TestEvidence2.pdf)
-* [Continuous integration](https://team-13-rlc.github.io/pdfs/CI.pdf)
+* [Continuous integration](https://team-13-rlc.github.io/pdfs/CI2.pdf)
 * [Code Documentation](https://team-13-rlc.github.io/docs)
 
 ### Game Files
